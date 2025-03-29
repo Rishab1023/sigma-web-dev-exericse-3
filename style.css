@@ -1,7 +1,7 @@
 body{
-    padding: 0;
-    margin: 0;
-    border-radius: 10px;
+    padding-left: 500px;
+    margin-top: 20px;
+    border-radius: 100px;
 }
 .body{
     background-color: antiquewhite;
@@ -21,6 +21,9 @@ img{
     display: flex;
     padding: 10px;
     background-color: antiquewhite;
+}
+.category:hover{
+    
 }
 a{
     padding: 5px;
@@ -63,4 +66,9 @@ p{
     align-items: center;
     justify-content: center;
     display: flex;
+}
+.main{
+    background-color: aliceblue;
+    width: 500px;
+    
 }
